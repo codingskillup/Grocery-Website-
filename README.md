@@ -11,7 +11,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Packages:
 
+```bash
 npm i mongoose bcryptjs axios
+```
 
 ## Deploy on Vercel
 
