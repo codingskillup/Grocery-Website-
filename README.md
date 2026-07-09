@@ -13,15 +13,6 @@ npm run dev
 npm i mongoose bcryptjs axios
 ```
 
-## Deploy on Vercel
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Grocery-Website-
-
-Grocery Website using Nextjs , MongoDB, Clerk
-
-
 #  ================ Steps============:
 ```
 ### Model:
@@ -36,3 +27,11 @@ connection string (lib/db.ts)
 ### Register API:
 //app/api/auth/register/route.ts
 ```
+
+## Deploy on Vercel
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Grocery-Website-
+
+Grocery Website using Nextjs , MongoDB, Clerk
