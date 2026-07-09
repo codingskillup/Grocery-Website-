@@ -17,25 +17,25 @@ npm i mongoose bcryptjs axios
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-# Grocery-Website-
+## Grocery-Website-
 
 Grocery Website using Nextjs , MongoDB, Clerk
 
 
-##  ================ Steps============:
+#  ================ Steps============:
 
 ### Model:
 ```
 First models (models/user.model.ts)
 ```
 
-## Connet MONGO-DB:
+### Connet MONGO-DB:
 ```
 .env files (mongodb password, connection string)
 type.ts (for global variables)
 connection string (lib/db.ts)
 ```
 
-## Register API:
+### Register API:
 ```
 //app/api/auth/register/route.ts
