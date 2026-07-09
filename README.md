@@ -22,9 +22,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Grocery Website using Nextjs , MongoDB, Clerk
 
 
-## Steps============================:
+##  ================ Steps============:
 
-## Model:
+### Model:
 ```
 First models (models/user.model.ts)
 ```
